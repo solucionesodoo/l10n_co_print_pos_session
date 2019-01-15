@@ -1,0 +1,144 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* l10n_co_print_pos_session
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 11.0c-20160606\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-14 21:10+0000\n"
+"PO-Revision-Date: 2019-01-14 21:10+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: l10n_co_print_pos_session
+#: model:ir.ui.view,arch_db:l10n_co_print_pos_session.template_session
+msgid "<br/>\n"
+"                                    <strong>Reference</strong> :"
+msgstr "<br/>\n"
+"                                    <strong>Reference</strong> :"
+
+#. module: l10n_co_print_pos_session
+#: model:ir.ui.view,arch_db:l10n_co_print_pos_session.template_session
+msgid "<br/>\n"
+"                            <strong>Sales:</strong>"
+msgstr "<br/>\n"
+"                            <strong>Ventas:</strong>"
+
+#. module: l10n_co_print_pos_session
+#: model:ir.ui.view,arch_db:l10n_co_print_pos_session.template_session
+msgid "<br/>\n"
+"                            <strong>Subtotal:</strong>"
+msgstr "<br/>\n"
+"                            <strong>Subtotal:</strong>"
+
+#. module: l10n_co_print_pos_session
+#: model:ir.ui.view,arch_db:l10n_co_print_pos_session.template_session
+msgid "<br/>\n"
+"                            <strong>Total Discount:</strong>"
+msgstr "<br/>\n"
+"                            <strong>Total Descuento:</strong>"
+
+#. module: l10n_co_print_pos_session
+#: model:ir.ui.view,arch_db:l10n_co_print_pos_session.template_session
+msgid "<br/>\n"
+"                            <strong>Total: </strong>"
+msgstr "<br/>\n"
+"                            <strong>Diario</strong> :"
+
+#. module: l10n_co_print_pos_session
+#: model:ir.ui.view,arch_db:l10n_co_print_pos_session.template_session
+msgid "<br/>\n"
+"                            <strong>Valor Iva: </strong>"
+msgstr "<br/>\n"
+"                            <strong>Valor Iva: </strong>"
+
+
+#. module: l10n_co_print_pos_session
+#: model:ir.ui.view,arch_db:l10n_co_print_pos_session.template_session
+msgid "<span>No se encontró ventas para esta sesión</span>"
+msgstr "<span>No se encontró ventas para esta sesión</span>"
+
+#. module: l10n_co_print_pos_session
+#: model:ir.ui.view,arch_db:l10n_co_print_pos_session.template_session
+msgid "<strong style=\"font-size:18px;\">Total Payments Method : </strong>"
+msgstr "<strong style=\"font-size:18px;\">Total Métodos de Pago : </strong>"
+
+#. module: l10n_co_print_pos_session
+#: model:ir.ui.view,arch_db:l10n_co_print_pos_session.template_session
+msgid "<strong>Closing Date</strong>:"
+msgstr "<strong>Fecha de Cierre</strong>:<br/>"
+
+#. module: l10n_co_print_pos_session
+#: model:ir.ui.view,arch_db:l10n_co_print_pos_session.template_session
+msgid "<strong>Initial date</strong>:"
+msgstr "<strong>Fecha de Inicio</strong>:<br/>"
+
+#. module: l10n_co_print_pos_session
+#: model:ir.ui.view,arch_db:l10n_co_print_pos_session.template_session
+msgid "<strong>Journal</strong> :"
+msgstr "<strong>Journal</strong> :"
+
+#. module: l10n_co_print_pos_session
+#: model:ir.ui.view,arch_db:l10n_co_print_pos_session.template_session
+msgid "<strong>No. Final Registration</strong>:"
+msgstr "<strong>No. Registro Final</strong>:<br/>"
+
+#. module: l10n_co_print_pos_session
+#: model:ir.ui.view,arch_db:l10n_co_print_pos_session.template_session
+msgid "<strong>No. Initial Registration</strong>:"
+msgstr "<strong>No. Registro Inicial</strong>:<br/>"
+
+#. module: l10n_co_print_pos_session
+#: model:ir.ui.view,arch_db:l10n_co_print_pos_session.template_session
+msgid "<strong>Number of Sales Done:</strong>"
+msgstr "<strong>Número de Ventas Realizadas:</strong>"
+
+#. module: l10n_co_print_pos_session
+#: model:ir.ui.view,arch_db:l10n_co_print_pos_session.template_session
+msgid "<strong>Point of sale</strong>:"
+msgstr "<strong>Punto de Venta</strong>:"
+
+#. module: l10n_co_print_pos_session
+#: model:ir.ui.view,arch_db:l10n_co_print_pos_session.template_session
+msgid "<strong>Responsable</strong>:"
+msgstr "<strong>Responsable</strong>:"
+
+#. module: l10n_co_print_pos_session
+#: model:ir.ui.view,arch_db:l10n_co_print_pos_session.template_session
+msgid "<strong>Session No</strong>:"
+msgstr "<strong>Session No</strong>:"
+
+#. module: l10n_co_print_pos_session
+#: model:ir.ui.view,arch_db:l10n_co_print_pos_session.template_session
+msgid "<strong>Total Transactions Sales </strong> :"
+msgstr "<strong>Total Transacciones</strong> :"
+
+#. module: l10n_co_print_pos_session
+#: model:ir.ui.view,arch_db:l10n_co_print_pos_session.template_session
+msgid "<strong>Voucher Date</strong>:"
+msgstr "<strong>Fecha de Cierre</strong>:"
+
+#. module: l10n_co_print_pos_session
+#: model:ir.ui.view,arch_db:l10n_co_print_pos_session.template_session
+msgid "Daily POS Sales Report"
+msgstr "Informe Diario de Ventas POS"
+
+#. module: l10n_co_print_pos_session
+#: model:ir.ui.view,arch_db:l10n_co_print_pos_session.template_session
+msgid "Total Payment Method"
+msgstr "Total Métodos de Pago"
+
+#. module: l10n_co_print_pos_session
+#: model:ir.ui.view,arch_db:l10n_co_print_pos_session.template_session
+msgid "Total Refund POS"
+msgstr "Total Devoluciones POS"
+
+#. module: l10n_co_print_pos_session
+#: model:ir.ui.view,arch_db:l10n_co_print_pos_session.template_session
+msgid "Total Sales POS"
+msgstr "Total Ventas POS"
