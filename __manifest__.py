@@ -31,7 +31,7 @@
 {
     'name': 'Colombia - Reporte session punto de venta',
     'category': 'Localization',
-    'version': '12.0',
+    'version': '11.0',
     'author': 'Diego Carvajal, diegoivanc@gmail.com , odoo loco',
     'license': 'AGPL-3',
     'maintainer': ' ',
