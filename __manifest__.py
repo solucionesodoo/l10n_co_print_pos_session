@@ -1,12 +1,8 @@
-
 # -*- coding: utf-8 -*-
 ###############################################################################
 #                                                                             #
 #                                                                             #
 # Part of Odoo. See LICENSE file for full copyright and licensing details.    #
-#                                                                             #
-#                                                                             #
-# Copyright (C) 2019   Diego Carvajal, diegoivanc@gmail.com                   #
 #                                                                             #
 #                                                                             #
 #                                                                             #
@@ -42,14 +38,17 @@ Colombia Point of Sale report:
 ======================
   """,
     'depends': [
+    'base',
         'point_of_sale',
         'l10n_co_res_partner',
         'l10n_co_tax_extension',
         'l10n_co_pos_tax',
     ],
     'data': [
+        'report/prueba.xml',
+        'report/template_session.xml',
         'report/pos_report.xml',
-        'report/template_session.xml'
+
     ],
     'installable': True,
 }
